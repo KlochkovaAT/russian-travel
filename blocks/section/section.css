@@ -1,5 +1,6 @@
 .section {
   width: calc(100% - 96px);
+  max-width: 1184px;
   padding-bottom: 92px;
 }
 
